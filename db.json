@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "desc": "milk ",
+      "price": "5",
+      "id": 1
+    },
+    {
+      "desc": "bread",
+      "price": "12",
+      "id": 2
+    },
+    {
+      "desc": "lemon",
+      "price": "1",
+      "id": 3
+    },
+    {
+      "desc": "mint",
+      "price": "3",
+      "id": 4
+    },
+    {
+      "desc": "onion",
+      "price": "5",
+      "id": 5
+    }
+  ],
+  "orders": [
+    {
+      "desc": "lemon",
+      "price": "1",
+      "amount": 1,
+      "id": 1
+    },
+    {
+      "desc": "mint",
+      "price": "3",
+      "amount": 1,
+      "id": 2
+    }
+  ]
+}
