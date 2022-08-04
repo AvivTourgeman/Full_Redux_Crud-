@@ -1,5 +1,18 @@
 # Getting Started with Create React App and Redux
 
+
+to activate:
+in terminal
+git clone https://github.com/AvivTourgeman/Full_Redux_Crud-.git
+npm i
+cd my-app
+npm start
+IN ANOTHER INTEGRATED TERMINAL:
+cd my app 
+json-server --watch db.json --port 3005
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
