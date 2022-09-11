@@ -2,13 +2,18 @@
 
 
 to activate:
-in terminal
+in terminal-
 git clone https://github.com/AvivTourgeman/Full_Redux_Crud-.git
+then-
 npm i
+then-
 cd my-app
+then-
 npm start
+then-
 IN ANOTHER INTEGRATED TERMINAL:
 cd my app 
+then-
 json-server --watch db.json --port 3005
 
 
